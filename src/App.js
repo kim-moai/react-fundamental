@@ -6,7 +6,7 @@ function App() {
   const expenses = [
     {
       id: "e1",
-      title: "수건1",
+      title: "수건",
       amount: 12.33,
       date: new Date(2025, 8, 14),
     },
